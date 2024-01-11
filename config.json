@@ -1,0 +1,14 @@
+{
+    "updater": {
+        "default": {
+            "provider": "github",
+            "repo": "hanfengze001/push-open-block"
+        },
+        "cn": {
+            "provider": "github",
+            "repo": "hanfengze001/push-open-block"
+        }
+    },
+    "version": "v0.1.0"
+   
+}

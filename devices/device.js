@@ -1,0 +1,38 @@
+module.exports = [
+    // Buid-in device
+    'QDPRobot_arduinoUnoUltra',
+    /*'QDPRobotC02_ESP32QDP',
+    'QDPRobotC02_arduinoESP32QDP',
+    'QDPRobotC02_microPythonESP32QDP',
+    'QDPRobotIOT_esp8266',
+    'QDPRobotIOT_arduinoEsp8266',
+    'QDPRobotIOT_microPythonEsp8266',
+    'QDPRobotcar1_arduinoUnoUltra',
+    'QDPRobotpuhui_arduinoUnoUltra',
+    'QDPRobotMakeStart_arduinoUnoUltra',
+    'QDPAIStart_k210MaixDock',
+    'QDPAIStart_arduinoK210MaixDock',
+    'QDPAIStart_microPythonK210MaixDock',
+    'arduinoUno',
+    'arduinoEsp32',
+    'microbitV2',
+    'arduinoNano',
+    'arduinoLeonardo',
+    'arduinoMega2560',
+    'esp32',
+    'microPythonEsp32',
+    'esp8266',
+    'arduinoEsp8266',
+    'microPythonEsp8266',
+    'k210MaixDock',
+    'arduinoK210MaixDock',
+    'microPythonK210MaixDock',
+    'k210Maixduino',
+    'arduinoK210Maixduino',
+    'microPythonK210Maixduino',
+    'arduinoRaspberryPiPico',
+    'microbit',
+    'makeyMakey',*/
+    // Third party
+   
+];
